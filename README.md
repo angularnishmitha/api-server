@@ -1,2 +1,2 @@
 # api-server
-swagger api with swagger
+with swagger api
